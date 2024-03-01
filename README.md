@@ -1,3 +1,5 @@
+[![Azure Static Web Apps CI/CD](https://github.com/TheDanishMexican/react1/actions/workflows/azure-static-web-apps-ambitious-island-05dd2d410.yml/badge.svg)](https://github.com/TheDanishMexican/react1/actions/workflows/azure-static-web-apps-ambitious-island-05dd2d410.yml)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
